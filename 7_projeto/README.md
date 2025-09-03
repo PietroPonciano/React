@@ -1,6 +1,6 @@
 # Projeto de Tarefas
 
-Esta pasta contém um **projeto React completo** que integra todos os conceitos aprendidos nas seções anteriores.
+Esta pasta contém um **projeto React** que integra todos os conceitos aprendidos nas seções anteriores.
 
 ## Funcionalidades
 
