@@ -1,12 +1,14 @@
-# React + Vite
+# Componentes React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Esta pasta contém exemplos de **componentes React reutilizáveis**, demonstrando como criar e organizar componentes para diferentes cenários.
 
-Currently, two official plugins are available:
+## Exemplos
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Componentes funcionais e de classe
+- Passagem de **props**
+- Composição de componentes
 
-## Expanding the ESLint configuration
+### Como usar
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. Importe o componente no seu projeto.
+2. Use dentro do JSX como `<NomeDoComponente />`.
